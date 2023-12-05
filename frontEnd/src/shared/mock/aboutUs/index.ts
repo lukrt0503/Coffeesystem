@@ -1,0 +1,6 @@
+export const aboutUsData = [
+   "Phát triển các quán cà phê đòi hỏi một kế hoạch chặt chẽ và chiến lược linh hoạt để thu hút khách hàng và duy trì sự hấp dẫn. Việc xác định mục tiêu kinh doanh, nghiên cứu thị trường và đáp ứng nhu cầu khách hàng là quan trọng. Đầu tiên, việc lựa chọn vị trí chiến lược có mật độ người qua lại cao sẽ có ảnh hưởng đáng kể đến sự thành công của quán.",
+   "Một phần quan trọng khác là thiết kế không gian quán cà phê, bao gồm cả nội thất, màu sắc, ánh sáng và không gian mở. Không chỉ tạo ra một môi trường thoải mái và ấm cúng, mà còn đảm bảo rằng không gian phù hợp với phong cách và đối tượng khách hàng mục tiêu.",
+   "Quản lý và chất lượng sản phẩm cũng là yếu tố quyết định. Việc cung cấp đồ uống chất lượng, phù hợp với sở thích và nhu cầu của khách hàng, cùng với việc tạo ra menu đa dạng, sáng tạo và phong phú có thể giúp thu hút và giữ chân khách hàng.",
+   "Cuối cùng, việc xây dựng mối quan hệ với cộng đồng cũng rất quan trọng. Sự tương tác tích cực với khách hàng, sự thân thiện và sự chia sẻ từ cộng đồng có thể tạo nên sự tín nhiệm và lòng trung thành từ phía khách hàng."
+]

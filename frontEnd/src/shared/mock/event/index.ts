@@ -1,0 +1,93 @@
+export const eventData = [
+    {
+        "eventId": 1,
+        "name": "The heaven coffee",
+        "address": "address1",
+        "date": "2023-08-22T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "HI",
+        "startTime": "2023-08-22T00:00:00",
+        "endTime": "2023-08-23T00:00:00",
+        "seatCount": 50,
+        "price": 10,
+        "coffeeShopName": "Coffee 1"
+    },
+    {
+        "eventId": 2,
+        "name": "The heaven coffee",
+        "address": "address2",
+        "date": "2023-08-22T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "LEEOO",
+        "startTime": "2023-08-22T00:00:00",
+        "endTime": "2023-08-23T00:00:00",
+        "seatCount": 40,
+        "price": 12,
+        "coffeeShopName": "Coffee House"
+    },
+    {
+        "eventId": 3,
+        "name": "Go to the moon",
+        "address": "address3",
+        "date": "2023-08-22T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "NEO",
+        "startTime": "2023-08-22T00:00:00",
+        "endTime": "2023-08-23T00:00:00",
+        "seatCount": 70,
+        "price": 15,
+        "coffeeShopName": "Coffee High"
+    },
+    {
+        "eventId": 4,
+        "name": "Coffee moon",
+        "address": "address4",
+        "date": "2023-08-22T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "Star ",
+        "startTime": "2023-08-22T00:00:00",
+        "endTime": "2023-08-23T00:00:00",
+        "seatCount": 90,
+        "price": 20,
+        "coffeeShopName": "Coffee Low"
+    },
+    {
+        "eventId": 5,
+        "name": "Mar Coffee",
+        "address": "address2",
+        "date": "2023-08-22T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "Go to the Sky to drink coffee",
+        "startTime": "2023-08-22T00:00:00",
+        "endTime": "2023-08-23T00:00:00",
+        "seatCount": 200,
+        "price": 30,
+        "coffeeShopName": "Coffee Market"
+    },
+    {
+        "eventId": 7,
+        "name": "test add event",
+        "address": "asd",
+        "date": "2023-08-06T00:00:00",
+        "imageUrl":"https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "test add event description",
+        "startTime": "2023-08-06T05:10:30.217",
+        "endTime": "2023-08-06T05:10:30.217",
+        "seatCount": 11,
+        "price": 11,
+        "coffeeShopName": "Coffee Low"
+    },
+    {
+        "eventId": 8,
+        "name": "test add event",
+        "address": "address2",
+        "date": "2023-08-06T00:00:00",
+        "imageUrl": "https://media.istockphoto.com/id/1177900338/photo/cup-of-espresso-with-coffee-beans.jpg?b=1&s=612x612&w=0&k=20&c=Kq8k4AR5xJQjiNWccTmR6txlxRSi_90qBKOq30LGGoY=",
+        "description": "asdadsadadsadasd",
+        "startTime": "2023-08-06T15:36:56.067",
+        "endTime": "2023-08-06T15:36:56.067",
+        "seatCount": 11,
+        "price": 110,
+        "coffeeShopName": "Coffee Low"
+    }
+]
